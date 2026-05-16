@@ -7,6 +7,7 @@
 - 📫 How to reach me: smeainrahman@gmail.com
 - 😄 Pronouns: Maein
 - ⚡ Fun fact: I love turning complex ideas into practical systems that actually scale
+
 🚀 About Me:
 Hi, I’m Maein, a Software Engineering student passionate about AI, automation, scalable systems, and innovative tech solutions. I enjoy building practical projects, exploring startup ideas, and learning advanced technologies that create real-world impact. I’m always curious about research, business strategy, and turning ideas into scalable digital products.
 
